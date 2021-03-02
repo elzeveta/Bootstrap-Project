@@ -1,7 +1,39 @@
 body {
     font-family: 'Raleway', sans-serif;
-    background-image: url(https://image.freepik.com/free-vector/natural-resources_24908-47470.jpg);
+    
+}
+/* nav */
+nav {
+    background: rgb(174, 223, 241);
+}
+nav a {
+    color: #2c363f;
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.nav-link {
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.hero {
+    background-image: url(./img/12.-natural-resources.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-
+}
+.hero-content {
+    margin-top: 4rem;
+}
+.hero-content h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+.hero-content h3 {
+    font-weight: 700;
+}
+.social-icons-hero div {
+    border: 1px solid #2c363f;
+    border-radius: 50%;
+    background: #ffffff;
 }
