@@ -37,3 +37,8 @@ nav a {
     border-radius: 50%;
     background: #ffffff;
 }
+.about {
+    background-image: url(./img/13.-natural-resources.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
